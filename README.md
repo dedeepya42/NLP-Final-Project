@@ -14,4 +14,5 @@ Results :
 The final accuracy of the models is as follows: 
  
 Multinomial Naïve Bayes Classifier :58.3 %
+
 Linear SVC Classifier: 61.3 %
